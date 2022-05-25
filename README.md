@@ -2,6 +2,8 @@
 
 Min gruppe sitt bachelorprosjekt handlet om å lage en VR-applikasjon som et verktøy til bruk i eksponeringsterapi av MR-fobi. Dette prosjektet ble gjort i samarbeid med Helse Vest IKT og Helse Bergen. Applikasjonen vil inngå i Helse Vest IKTs repertoar av VR-løsninger mot fobi.
 
+Hensikten med applikasjonen er at pasienter som er redd for MR-undersøkelser kan bruke applikasjonen sammen med en terapeut til å behandle fobien. 
+
 Jeg kan ikke dele kildekoden her dessverre, men jeg vil legge med rapporten av arbeidet, i tillegg til bilder av ferdig produkt.
 
 Videre vises litt bilder.
