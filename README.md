@@ -4,7 +4,7 @@ Mitt bachelorprosjekt handlet om å lage en VR-applikasjon som et verktøy til b
 
 Jeg kan ikke dele kildekoden her dessverre, men jeg vil legge med rapporten av arbeidet, i tillegg til bilder av ferdig produkt.
 
-
+Videre vises litt bilder.
 
 Her ser man et bilde av scenen, sett fra kontrollrommet i den virtuelle MR-labben.
 
